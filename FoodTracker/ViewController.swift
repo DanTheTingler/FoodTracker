@@ -5,6 +5,8 @@
 //  Created by Daniel Ting on 4/2/18.
 //
 
+//This is a subclass of  of UIViewController, and at the moment, it simply inherits all the behavior defined by UIViewController 
+
 import UIKit
 
 class ViewController: UIViewController {
